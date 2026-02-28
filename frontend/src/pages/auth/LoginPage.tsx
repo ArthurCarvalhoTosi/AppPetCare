@@ -17,7 +17,6 @@ export default function LoginPage() {
     e.preventDefault()
     setError('')
     setIsLoading(true)
-    
     try {
       // TODO: Integrar com API real
       // Simulando login para demonstração
