@@ -22,4 +22,5 @@ public class User
     // Navigation properties
     public virtual ICollection<Pet>? Pets { get; set; }
     public virtual CaregiverProfile? CaregiverProfile { get; set; }
+    public virtual ICollection<RefreshToken>? RefreshTokens { get; set; }
 }
