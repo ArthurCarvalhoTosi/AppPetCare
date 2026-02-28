@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ArthurPessoal\\projects\\AppPetCare\\BackendAppCare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C23B331B-2E59-4C42-9415-00042A422C54}|BackendAppCare.csproj|c:\\users\\arthurpessoal\\projects\\apppetcare\\backendappcare\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23B331B-2E59-4C42-9415-00042A422C54}|BackendAppCare.csproj|solutionrelative:models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23B331B-2E59-4C42-9415-00042A422C54}|BackendAppCare.csproj|c:\\users\\arthurpessoal\\projects\\apppetcare\\backendappcare\\controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23B331B-2E59-4C42-9415-00042A422C54}|BackendAppCare.csproj|solutionrelative:controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23B331B-2E59-4C42-9415-00042A422C54}|BackendAppCare.csproj|c:\\users\\arthurpessoal\\projects\\apppetcare\\backendappcare\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23B331B-2E59-4C42-9415-00042A422C54}|BackendAppCare.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23B331B-2E59-4C42-9415-00042A422C54}|BackendAppCare.csproj|c:\\users\\arthurpessoal\\projects\\apppetcare\\backendappcare\\models\\availability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23B331B-2E59-4C42-9415-00042A422C54}|BackendAppCare.csproj|solutionrelative:models\\availability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23B331B-2E59-4C42-9415-00042A422C54}|BackendAppCare.csproj|c:\\users\\arthurpessoal\\projects\\apppetcare\\backendappcare\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23B331B-2E59-4C42-9415-00042A422C54}|BackendAppCare.csproj|solutionrelative:controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23B331B-2E59-4C42-9415-00042A422C54}|BackendAppCare.csproj|c:\\users\\arthurpessoal\\projects\\apppetcare\\backendappcare\\controllers\\caregiverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23B331B-2E59-4C42-9415-00042A422C54}|BackendAppCare.csproj|solutionrelative:controllers\\caregiverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23B331B-2E59-4C42-9415-00042A422C54}|BackendAppCare.csproj|c:\\users\\arthurpessoal\\projects\\apppetcare\\backendappcare\\models\\visitreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23B331B-2E59-4C42-9415-00042A422C54}|BackendAppCare.csproj|solutionrelative:models\\visitreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23B331B-2E59-4C42-9415-00042A422C54}|BackendAppCare.csproj|c:\\users\\arthurpessoal\\projects\\apppetcare\\backendappcare\\models\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23B331B-2E59-4C42-9415-00042A422C54}|BackendAppCare.csproj|solutionrelative:models\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23B331B-2E59-4C42-9415-00042A422C54}|BackendAppCare.csproj|c:\\users\\arthurpessoal\\projects\\apppetcare\\backendappcare\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23B331B-2E59-4C42-9415-00042A422C54}|BackendAppCare.csproj|solutionrelative:models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23B331B-2E59-4C42-9415-00042A422C54}|BackendAppCare.csproj|c:\\users\\arthurpessoal\\projects\\apppetcare\\backendappcare\\models\\caregiverprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23B331B-2E59-4C42-9415-00042A422C54}|BackendAppCare.csproj|solutionrelative:models\\caregiverprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23B331B-2E59-4C42-9415-00042A422C54}|BackendAppCare.csproj|c:\\users\\arthurpessoal\\projects\\apppetcare\\backendappcare\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23B331B-2E59-4C42-9415-00042A422C54}|BackendAppCare.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PetsController.cs",
+              "DocumentMoniker": "C:\\Users\\ArthurPessoal\\projects\\AppPetCare\\BackendAppCare\\Controllers\\PetsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PetsController.cs",
+              "ToolTip": "C:\\Users\\ArthurPessoal\\projects\\AppPetCare\\BackendAppCare\\Controllers\\PetsController.cs",
+              "RelativeToolTip": "Controllers\\PetsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T01:04:21.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\ArthurPessoal\\projects\\AppPetCare\\BackendAppCare\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\ArthurPessoal\\projects\\AppPetCare\\BackendAppCare\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "Controllers\\ChatController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T00:56:31.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CaregiversController.cs",
+              "DocumentMoniker": "C:\\Users\\ArthurPessoal\\projects\\AppPetCare\\BackendAppCare\\Controllers\\CaregiversController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CaregiversController.cs",
+              "ToolTip": "C:\\Users\\ArthurPessoal\\projects\\AppPetCare\\BackendAppCare\\Controllers\\CaregiversController.cs",
+              "RelativeToolTip": "Controllers\\CaregiversController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T00:53:23.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ArthurPessoal\\projects\\AppPetCare\\BackendAppCare\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ArthurPessoal\\projects\\AppPetCare\\BackendAppCare\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T00:52:37.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VisitReport.cs",
+              "DocumentMoniker": "C:\\Users\\ArthurPessoal\\projects\\AppPetCare\\BackendAppCare\\Models\\VisitReport.cs",
+              "RelativeDocumentMoniker": "Models\\VisitReport.cs",
+              "ToolTip": "C:\\Users\\ArthurPessoal\\projects\\AppPetCare\\BackendAppCare\\Models\\VisitReport.cs",
+              "RelativeToolTip": "Models\\VisitReport.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA7wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T00:39:36.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Visit.cs",
+              "DocumentMoniker": "C:\\Users\\ArthurPessoal\\projects\\AppPetCare\\BackendAppCare\\Models\\Visit.cs",
+              "RelativeDocumentMoniker": "Models\\Visit.cs",
+              "ToolTip": "C:\\Users\\ArthurPessoal\\projects\\AppPetCare\\BackendAppCare\\Models\\Visit.cs",
+              "RelativeToolTip": "Models\\Visit.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T00:39:28.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\ArthurPessoal\\projects\\AppPetCare\\BackendAppCare\\Models\\Pet.cs",
+              "RelativeDocumentMoniker": "Models\\Pet.cs",
+              "ToolTip": "C:\\Users\\ArthurPessoal\\projects\\AppPetCare\\BackendAppCare\\Models\\Pet.cs",
+              "RelativeToolTip": "Models\\Pet.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T00:35:08.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChatMessage.cs",
+              "DocumentMoniker": "C:\\Users\\ArthurPessoal\\projects\\AppPetCare\\BackendAppCare\\Models\\ChatMessage.cs",
+              "RelativeDocumentMoniker": "Models\\ChatMessage.cs",
+              "ToolTip": "C:\\Users\\ArthurPessoal\\projects\\AppPetCare\\BackendAppCare\\Models\\ChatMessage.cs",
+              "RelativeToolTip": "Models\\ChatMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T00:35:01.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Availability.cs",
+              "DocumentMoniker": "C:\\Users\\ArthurPessoal\\projects\\AppPetCare\\BackendAppCare\\Models\\Availability.cs",
+              "RelativeDocumentMoniker": "Models\\Availability.cs",
+              "ToolTip": "C:\\Users\\ArthurPessoal\\projects\\AppPetCare\\BackendAppCare\\Models\\Availability.cs",
+              "RelativeToolTip": "Models\\Availability.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T00:34:37.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CaregiverProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ArthurPessoal\\projects\\AppPetCare\\BackendAppCare\\Models\\CaregiverProfile.cs",
+              "RelativeDocumentMoniker": "Models\\CaregiverProfile.cs",
+              "ToolTip": "C:\\Users\\ArthurPessoal\\projects\\AppPetCare\\BackendAppCare\\Models\\CaregiverProfile.cs",
+              "RelativeToolTip": "Models\\CaregiverProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T00:34:50.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ArthurPessoal\\projects\\AppPetCare\\BackendAppCare\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ArthurPessoal\\projects\\AppPetCare\\BackendAppCare\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T00:11:37.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
